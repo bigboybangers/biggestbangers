@@ -1,9 +1,6 @@
 ## Welcome to biggestbangers by bigboybangers.
 
-<div style="width:100%; padding-bottom:56.25%; position:relative;">
-  <iframe src="path/to/Saola Animate/HTML file" style="position:absolute; top:0px; left:0px; 
-  width:100%; height:100%; border: none; overflow: hidden;"></iframe>
-</div>
+<embed src="https://www.nvidia.com/en-us/geforce-now/" style="width:500px; height: 300px;">
 
 You can use the [editor on GitHub](https://github.com/bigboybangers/biggestbangers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
